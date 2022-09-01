@@ -1,0 +1,14 @@
+{
+  "name": "numeros",
+  "version": "1.0.0",
+  "description": "Ejerciocio de Numeros,Operaciones y Metodos",
+  "main": "index.js",
+  "scripts": {
+    "test": "numbers, operaciones"
+  },
+  "keywords": [
+    "numeros"
+  ],
+  "author": "DiegoAVG",
+  "license": "ISC"
+}
